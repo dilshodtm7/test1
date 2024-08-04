@@ -26,9 +26,9 @@ const Task = () => {
           Content
         </button>
       </div>
-{/* 
+
       {activeSection === 'Special' && <Special />}
-      {activeSection === 'Content' && <Content />} */}
+      {activeSection === 'Content' && <Content />}
     </div>
   );
 }
