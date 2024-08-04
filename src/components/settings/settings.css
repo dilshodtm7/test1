@@ -1,0 +1,60 @@
+
+.setting-container{
+    width: 90%;
+    height: 100%;
+    margin: 0 auto;
+    padding-top: 10px;
+    margin-bottom: 100px;
+}
+
+
+.account-info{
+    padding: 15px;
+    height: 60px;
+    background-color:#1E2C3A ;
+    border-radius: 20px;
+    color: white !important;
+    overflow-y: hidden;
+    scrollbar-width: none;
+}
+.setting-hr{
+    width: 80%;
+    margin: auto;
+    height: 1px;
+    background-color: rgb(255, 255, 255);
+    border: none !important;;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.setting-button{
+    width: 100%;
+    height: 50px;
+background-color: transparent !important;
+    border-radius: 15px;
+    border: none;
+    font-size: 20px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+.setting-span{
+    margin-left: 10px;
+}
+.info{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    border-radius: 20px;
+    background-color:#1E2C3A;
+    margin-top: 10px;
+    color: white;
+}
+.info-span{
+    font-size: 16px;
+    color: rgb(122, 122, 122) !important;
+}
+
