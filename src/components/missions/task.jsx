@@ -12,7 +12,7 @@ const Task = () => {
         <div className="task-name">New Missions</div>
         <div className="task-info">Complete Tasks to get rewards</div>
       </div>
-      <div className="task-change-buttons">
+{/*       <div className="task-change-buttons">
         <button
           className={`task-change-button ${activeSection === 'Special' ? 'active' : ''}`}
           onClick={() => setActiveSection('Special')}
@@ -28,7 +28,7 @@ const Task = () => {
       </div>
 
       {activeSection === 'Special' && <Special />}
-      {activeSection === 'Content' && <Content />}
+      {activeSection === 'Content' && <Content />} */}
     </div>
   );
 }
