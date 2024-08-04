@@ -1,9 +1,8 @@
 
 .task-container{
     width: 90%;
-height: 90%;
+    height: 90%;
     margin: 0 auto;
-    padding-top: 10px;
 }
 .task-name-info{
 display: block;
