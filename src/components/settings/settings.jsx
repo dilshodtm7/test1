@@ -39,12 +39,7 @@ const settings = () => {
               <span>My ID</span>
               <span className="info-span">{localStorage.getItem("user")}</span>
             </div>
-            <div className="info">
-              <span> Language</span>
-              <span className="info-span">
-                {localStorage.getItem("language_code")}
-              </span>
-            </div>
+            
             <div className="info">
               <span>Contact support</span>
             </div>
